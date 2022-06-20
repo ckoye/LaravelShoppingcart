@@ -1,9 +1,14 @@
 {
-    "name": "bumbummen99/shoppingcart",
+    "name": "ckoye/shoppingcart",
     "description": "Laravel Shoppingcart",
     "keywords": ["laravel", "shoppingcart"],
     "license": "MIT",
     "authors": [
+        {
+            "name": "Christopher Koye",
+            "email": "koye@innovationbit.com",
+            "homepage": "https://innovationbit.com/"
+        },
         {
             "name": "Rob Gloudemans",
             "email": "info@robgloudemans.nl",
